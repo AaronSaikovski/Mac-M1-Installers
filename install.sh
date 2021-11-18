@@ -7,16 +7,15 @@ brew install azure-cli
 brew install powershell
 brew install visual-studio-code
 brew install terraform
-brew install gimp
-brew install taskmate
 brew install p7zip
 brew install firefox
-brew install google-chrome
 brew install sublime-text
 brew install adobe-acrobat-reader
+brew install font-hack-nerd-font
+brew install git-credential-manager-core
+brew install textmate
 ##brew install mysqlworkbench
+##brew install vlc
 
 #update homebrew packages
-##brew upgrade
-
-brew update
+brew update ; brew upgrade
